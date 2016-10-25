@@ -1,6 +1,0 @@
-There were 134173 words added to dictionary MyLinkedList
-average comps words found= 3558.378773730391
-average comps words notfound= 7903.537197888381
-words found = 940250.0
-words not found = 59291.0
-time = 54667755803
